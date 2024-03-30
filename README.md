@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aung Khant Kyaw</h1>
 - 📫 How to reach me **aungkhantkyaw.info@gmail.com**
-- 😄 Pronouns: Ko Khant
+- 😄 Pronouns: **Ko Khant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
