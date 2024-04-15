@@ -8,7 +8,7 @@
 - 😄 Pronouns: **Ko Khant**
 - 🌱 I’m currently learning Web Development. 
 - 💬 Ask me about Java, PHP 
-- 📫 How to reach me: aungkhantkyaw.tech@gmail.com
+- 📫 How to reach me: [Gmail](aungkhantkyaw.tech@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aung-khantkyaw&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=1000)
