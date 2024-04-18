@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Aung Khant Kyaw 
 
 <a>
-  <img src="https://github-stats-alpha.vercel.app/api/?username=aung-khantkyaw" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aung-khantkyaw" align="right" />
 </a>
 
 #### I'm a student at University Of Computer Studies, Maubin.
