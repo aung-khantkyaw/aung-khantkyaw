@@ -1,4 +1,7 @@
-# 👋 Hi there, I'm Aung Khant Kyaw 
+<div align="center">
+  <img src="./github_avatar.png" width="300"/>
+<h1>👋 Hi there, I'm Aung Khant Kyaw </h1>
+</div>
 
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=aung-khantkyaw" align="right" />
