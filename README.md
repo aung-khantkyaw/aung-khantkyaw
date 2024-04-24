@@ -14,7 +14,7 @@
 - 📫 How to reach me: [Gmail](aungkhantkyaw.tech@gmail.com)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aung-khantkyaw&card_width=1000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aung-khantkyaw&card_width=1000&hide=html,css,blade)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aung-khantkyaw&card_width=1000)
 
 ---
