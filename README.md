@@ -18,5 +18,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aung-khantkyaw&card_width=1000)
 
 # 📃 Learning Docs
-- [Mastering PHP: From Basics to Advanced Techniques](https://www.notion.so/laziestant/Mastering-PHP-From-Basics-to-Advanced-Techniques-2f07ef5ce4f74359963eba813b71abd0)
+- [Mastering PHP: From Basics to Advanced Techniques](https://laziestant.notion.site/Mastering-PHP-From-Basics-to-Advanced-Techniques-2f07ef5ce4f74359963eba813b71abd0)
 ---
