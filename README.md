@@ -26,8 +26,3 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aung-khantkyaw&card_width=1000&theme=react)
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aung-khantkyaw&repo=social-network-platform&show_owner=false&theme=react" alt="GitHub repo-card Card" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aung-khantkyaw&repo=digital-library-system&theme=react&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
-</p>
-
