@@ -14,11 +14,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aung-khantkyaw&theme=react" align="right" />
 </a>
 
-#### I'm a student at University Of Computer Studies, Maubin.
+#### I'm a student at Polytechnic University (Maubin), Faculty of Computing.
 - 😄 Pronouns: **Ko Khant ( laz!est@nt )** 
 - 🌱 I’m currently learning Web Development. 
 - 💬 Ask me about Java, PHP 
-- 📫 How to reach me: [Gmail](aungkhantkyaw.tech@gmail.com)
+- 📫 How to reach me: [Gmail](aungkhantkyaw.info@gmail.com)
 
  **<h3 align="left">Skills</h3>**
 
