@@ -21,9 +21,9 @@
 - 📫 How to reach me: [Gmail](aungkhantkyaw.info@gmail.com)
 
  **<h3 align="left">Skills</h3>**
-[![My Skills](https://skillicons.dev/icons?i=prisma,mysql,sqlite,postgres)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev) </br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev) </br>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,next)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react)](https://skillicons.dev) </br>
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,java,php,laravel)](https://skillicons.dev) </br>
 
  **<h3 align="left">GitHub Stats</h3>**
