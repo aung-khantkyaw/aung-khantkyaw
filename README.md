@@ -16,7 +16,7 @@
 
 #### I'm a student at Polytechnic University (Maubin), Faculty of Computing.
 - 😄 Pronouns: **Ko Khant ( laz!est@nt )** 
-- 🌱 I’m currently learning Web Development. 
+- 🌱 I’m currently learning NextJS. 
 - 💬 Ask me about DSA, Java, PHP 
 - 📫 How to reach me: [Gmail](aungkhantkyaw.info@gmail.com)
 
